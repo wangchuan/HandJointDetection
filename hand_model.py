@@ -154,3 +154,4 @@ class HandModel():
         P[:, 1], P[:, 0] = P[:, 0], P[:, 1].copy()
         self.save_pts(self.template_filename, P)
         print(self.template_filename + ' saved!')
+

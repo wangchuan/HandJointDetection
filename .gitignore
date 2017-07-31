@@ -16,3 +16,5 @@ build/*
 .idea/*
 vis/*
 *.pkl
+
+log/*
